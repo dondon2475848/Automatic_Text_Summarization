@@ -54,8 +54,3 @@ Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. BLEU: a Method for 
 1. http://blog.csdn.net/lcj369387335/article/details/69845385
 1. https://github.com/mathsyouth/awesome-text-summarization
 
-
-| 一個普通標題 | 一個普通標題 | 一個普通標題 |
-| ------| ------ | ------ |
-| 短文本 | 中等文本 | 稍微長一點的文本 |
-| 稍微長一點的文本 | 短文本 | 中等文本 |
